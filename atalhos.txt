@@ -1,0 +1,21 @@
+para abrir o terminal 'comand + espaço' e digita terminal
+para listar pastas do local 'ls'
+para entrar nas pastas 'cd + nome da pasta'
+para voltar diretorio 'cd ..'
+voltar para diretorio raiz 'cd/'
+para ver caminho de onde estamos 'pwd'
+para criar pasta 'mkdir + nome da pasta'
+para ver detalhes da pasta 'ls -l'
+'man + comando'mostra o manual do comando
+'ls--help'mostra manual em portugues
+'mv'muda o nome do arquivo ou move
+'clear' limpa o terminal
+'rmdir ou rm apaga o diretorio
+'vi +nome.txt'cria arquivo de texto
+':w' salva o arquivo
+':q'sai do arquivo
+':q!'sai sem salvar
+para mostrar arquivos ocultos 'ls -a'
+'cp origem destino'copia o arquivo da pasta origem para destino
+
+
