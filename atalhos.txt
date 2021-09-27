@@ -17,5 +17,6 @@ para ver detalhes da pasta 'ls -l'
 ':q!'sai sem salvar
 para mostrar arquivos ocultos 'ls -a'
 'cp origem destino'copia o arquivo da pasta origem para destino
+.
 
 
